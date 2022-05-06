@@ -1,0 +1,8 @@
+[submodule "Backtelefonu.github.io"]
+	path = Backtelefonu.github.io
+	url = git@github.com:Backtelefonu/Backtelefonu.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:Backtelefonu/Backtelefonu.github.io.git
+	branch = main
