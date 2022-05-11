@@ -39,8 +39,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: vk
+    icon_pack: fab
     link: https://vk.com/livasan
   - icon: github
     icon_pack: fab
