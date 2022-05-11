@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: vasya-kuznetsov-1997@mail.ru
+  phone: +7(909)975-63-95
   address:
     street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    city: Moscow
+    region: msc
+    postcode: '119421'
+    country: Russia
+    country_code: RUS
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
