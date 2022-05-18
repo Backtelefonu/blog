@@ -27,12 +27,11 @@ item:
     date_end: ''
     date_start: '2021-03-06'
     description: ''
-    organization: Stepik
+    organization: Coursera
     organization_url: https://stepik.org/learn
     title: Python course
     url: ''
 
-    url: ''
 
 design:
   columns: '2'
